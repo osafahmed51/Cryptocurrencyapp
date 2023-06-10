@@ -1,5 +1,5 @@
 # Cryptocurrencyapp
-                                    Name : Osaf Ahmed              Crypto Currency App 
+   
 Clean Architecure:
 I have used clean architecure app in this project , clean architecture contains 3 layers in it . 
 1)presentation layer 
