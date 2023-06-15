@@ -4,6 +4,8 @@ it follows the clean architecture pattern ,
 this app retrieves the cryptocurrency data from coinaprika api.
 
 # Tech Stack
+* Kotlin
+* Jetpack Compose 
 * Clean Architecure
  * Clean architecture contains 3 layers in it 
   * presentation layer(Responsible for Ui)
