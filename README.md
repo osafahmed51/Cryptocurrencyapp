@@ -15,3 +15,5 @@ this app retrieves the cryptocurrency data from coinaprika api.
 * coinaprika Api
 * Retrofit
 
+#Contributors
+* Osaf Ahmed(Me)
